@@ -1,0 +1,11 @@
+body {
+    background-color: #eceff1;
+}
+#formulario-pergunta {
+    margin-top: 5vh;
+}
+.cartao {background-color: #7f8c8d;}
+.realizar-pergunta {font-size: 30px; color: #fff;}
+.titulo-pergunta { font-size: 25px; }
+.descricao-pergunta { font-size: 25px; }
+.rodape {background-color: #aaa69d; padding: 40px; margin-top: 2%;}
